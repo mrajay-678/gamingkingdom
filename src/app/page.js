@@ -4,7 +4,7 @@ import MouseHover from './Component/MouseHover';
 
 const Home = () => {
 
-    return (
+    return ( 
         <>
             {/* <!-- header --> */}
             <MouseHover/>
