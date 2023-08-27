@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
         <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png" />
         <link rel="manifest" href="img/site.webmanifest" />
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" integrity="sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" integrity="sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug==" crossOrigin="anonymous" referrerPolicy="no-referrer"></script>
       </head>
       <body className={inter.className}>
         {children}
