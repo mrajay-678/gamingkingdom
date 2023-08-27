@@ -11,7 +11,7 @@ const Home = () => {
             {/* <!-- header-end --> */}
 
         </>
-    )
+    ) 
 }
 
 export default Home
