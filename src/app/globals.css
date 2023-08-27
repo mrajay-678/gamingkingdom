@@ -27,8 +27,6 @@ h1, h2, h3, h4, h5, h6 {
   background: url("/images/12.jpeg") 50% 50% no-repeat fixed;
   background-size: cover;
   border-radius: 50%;
-  box-shadow: 10px 10px 10px #283337, 0 0 10px #283337;
-  border: 2px solid #283337;
 }
 
 .scene {
