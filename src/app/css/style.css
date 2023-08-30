@@ -576,14 +576,14 @@ color: #b8bfc3;
    background: #ffc010;
 }
 .slider-active .slick-dots li.slick-active button::before {
-    /* background: url("../img/bg/active-dote.png"); */
+    /* background: url("images/bg/active-dote.png"); */
     opacity: 1;
 }
 .slider-active .slick-dots li button::before {
     content: "";
     width: 19px;
     height: 19px;
-    /* background: url("../img/bg/dote.png"); */
+    /* background: url("images/bg/dote.png"); */
     float: left;
     position: relative;
     margin-top: -9px;
@@ -1133,7 +1133,7 @@ color: #fff;}
     width: 210px;   
      background-color: rgb(255, 192, 16);
      border-radius: 9px;
-    /* background-image: url(../img/bg/sbtn.png); */
+    /* background-image: url(images/bg/sbtn.png); */
     font-size: 18px;
 }
 
@@ -1392,7 +1392,7 @@ width: 100%;
 padding: 20px;
 }
 .sr-tw-ul li:hover{
-    /* background: url(../img/bg/sr-hover-bg.png); */
+    /* background: url(images/bg/sr-hover-bg.png); */
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 0px 1px 59px 0px rgba(0, 0, 0, 0.11);
@@ -1988,7 +1988,7 @@ padding-top: 30px;
     position: absolute;
     bottom: 5px;
     right: 5px;
-    /* background: url("../img/bg/tag-bg.png") no-repeat center center; */
+    /* background: url("images/bg/tag-bg.png") no-repeat center center; */
     width: 100%;
     text-align: center;
     font-weight: 600;
@@ -2729,14 +2729,14 @@ margin-top: 30px;
  .team-active .slick-dots li.slick-active button {
 }
 .team-active .slick-dots li.slick-active button::before {
-    /* background: url("../img/bg/active-dote.png"); */
+    /* background: url("images/bg/active-dote.png"); */
     opacity: 1;
 }
 .team-active .slick-dots li button::before {
     content: "";
     width: 19px;
     height: 19px;
-    /* background: url("../img/bg/dote.png"); */
+    /* background: url("images/bg/dote.png"); */
     float: left;
     position: relative;
     margin-top: -9px;
@@ -3649,14 +3649,14 @@ line-height: 40px;
  .home-blog-active .slick-dots li.slick-active button {
 }
 .home-blog-active .slick-dots li.slick-active button::before {
-    /* background: url("../img/bg/active-dote.png"); */
+    /* background: url("images/bg/active-dote.png"); */
     opacity: 1;
 }
 .home-blog-active .slick-dots li button::before {
     content: "";
     width: 19px;
     height: 19px;
-    /* background: url("../img/bg/dote.png"); */
+    /* background: url("images/bg/dote.png"); */
     float: left;
     position: relative;
     margin-top: -9px;
@@ -4472,7 +4472,7 @@ left: 0;
 bottom: 0;
 height: 21px;
 width: 80px;
-/* background: url('../img/bg/f-line.png') no-repeat; */
+/* background: url('images/bg/f-line.png') no-repeat; */
 }
 
 .footer-link ul li i {
@@ -4654,7 +4654,7 @@ margin-bottom: 15px;
 position: absolute;
 top: -25px;
 right: 5px;
-/* background:url("../img/bg/tag-bg.png") no-repeat center center; */
+/* background:url("images/bg/tag-bg.png") no-repeat center center; */
     width: 87px;
 text-align: center;
     font-weight: 600;
@@ -5516,10 +5516,10 @@ pre cite {
 .cst-woocommerce .columns-3 .button.product_type_variable.add_to_cart_button {
     left: 28%;
 }
-.woocommerce div.product div.images .flex-control-thumbs {
+.woocommerce div.product divimages .flex-control-thumbs {
     margin-top: 30px;
 }
-.woocommerce div.product div.images .flex-control-thumbs img {
+.woocommerce div.product divimages .flex-control-thumbs img {
     width: auto;
 }
 .woocommerce .summary .price {
@@ -5534,7 +5534,7 @@ pre cite {
 .woocommerce .star-rating {
     color: #f1d700;
 }
-.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images {
+.woocommerce #content div.product divimages, .woocommerce div.product divimages, .woocommerce-page #content div.product divimages, .woocommerce-page div.product divimages {
     float: left;
     width: 48%;
     overflow: hidden;
@@ -7306,21 +7306,21 @@ p.checkout-coupon input[type="text"] {
 	padding-left: 20px;
 }
 
-.service-detail .images-box{
+.service-detail images-box{
 	position: relative;
 	margin: 0 -5px;
 }
 
-.service-detail .images-box .column{
+.service-detail images-box .column{
 	padding: 0 5px;
 }
 
-.service-detail .images-box .image{
+.service-detail images-box .image{
 	position: relative;
 	margin-bottom: 10px;
 }
 
-.service-detail .images-box .image img{
+.service-detail images-box .image img{
 	display: block;
 	width: 100%;
 	height: auto;

@@ -1277,7 +1277,7 @@ box-shadow: 0 0 0 0;
     width: 100%;
 
 }
-.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images {
+.woocommerce #content div.product divimages, .woocommerce div.product divimages, .woocommerce-page #content div.product divimages, .woocommerce-page div.product divimages {
     float: left;
     width: 100%;
     overflow: hidden;

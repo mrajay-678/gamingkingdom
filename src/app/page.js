@@ -1,14 +1,16 @@
 import Image from 'next/image'
-import logo from './img/apple-touch-icon.png'
+// import logo from 'images/apple-touch-icon.png'
 import MouseHover from './Component/MouseHover';
+import TopMenu from './Component/TopMenu';
 
 const Home = () => {
 
     return ( 
         <>
-            {/* <!-- header --> */}
-            <MouseHover/>
-            {/* <!-- header-end --> */}
+            {/* <!-- TopMenu --> */}
+            {/* <MouseHover/> */}
+            <TopMenu/>
+            {/* <!-- TopMenu-end --> */}
 
         </>
     ) 
